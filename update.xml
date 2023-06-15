@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.11</latestVersion>
-    <latestVersionCode>12</latestVersionCode>
+    <latestVersion>1.15</latestVersion>
+    <latestVersionCode>15</latestVersionCode>
     <url>https://github.com/soczysoczy/seais/blob/master/PolpakSMS.apk?raw=true</url>
   </update>
 </AppUpdater>
