@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<root response="True">
- <movie title="The Social Network" year="2010" {snip} />
-</root>
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<html>
+ <head></head>
+ <body>
+  <root response="True">
+   <movie title="The Social Network" {snip} />
+  </root>
+ </body>
+</html>
