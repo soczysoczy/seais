@@ -3,5 +3,6 @@
     <latestVersion>1.15</latestVersion>
     <latestVersionCode>15</latestVersionCode>
     <url>https://github.com/soczysoczy/seais/blob/master/PolpakSMS.apk?raw=true</url>
+    <comment>+ Dodanie nowego instalera /n + Dostosowanie do wersji androida API34</comment>
   </update>
 </AppUpdater>
