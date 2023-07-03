@@ -1,2 +1,0 @@
-<Body>+ Dodanie funcjonalności
-* Naprawiono xxx</body>
